@@ -1,4 +1,4 @@
-## Obs.: Este é apenas um resumo do trabalho. O conteúdo completo se encontra na pasta "code", em forma de jupyter notebook.
+## Obs.: Este é apenas um resumo do trabalho. O conteúdo completo se encontra na pasta "code".
 
 # Previsão de Desempenho de candidatos do ENEM
 
